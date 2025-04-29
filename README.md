@@ -117,4 +117,4 @@ void toggleBlinkScreen() { ... }     // Gestion LED LCD
 
 MIT License - Libre pour tout usage (personnel/professionnel).
 
-**Auteur** : [obed]
+**Auteur** : obed
